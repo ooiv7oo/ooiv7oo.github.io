@@ -9,8 +9,7 @@
    margin-left: auto;
    margin-right: auto;
    border: 2px solid #000;
-   border-radius：50%;
- }
+   border-radius：50%}
 </style>
 ### Intreduce
 
