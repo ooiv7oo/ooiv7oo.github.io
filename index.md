@@ -48,7 +48,7 @@
      var UpYun = '<a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral" target="_blank" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/ooiv7oo/ling@gh-pages/assets/images/UpYun.png" style="width:50px">'
      var CloudFlare = '<a href="https://dash.cloudflare.com" target="_blank" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/ooiv7oo/ling@gh-pages/assets/images/CloudFlare.png" style="width:50px">'
      var GitHub = '<a href="https://github.com" target="_blank" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/ooiv7oo/ling@gh-pages/assets/images/GitHub.png" style="width:50px">'
-     document.querySelector("#content > footer > span").innerHTML='<p>+"GitHub"+</p>';
+     document.querySelector("#content > footer > span").innerHTML='<p> + GitHub + </p>';
    };
 </script>
 <style>
