@@ -17,7 +17,7 @@
   xhr.send();
 </script>
  
- <table style="display:none">
+ <table style="border:none">
  <tr>
   <th>QQ: </th>
   <th></th>
