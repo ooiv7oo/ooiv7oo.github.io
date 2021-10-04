@@ -20,8 +20,10 @@
 这里暂时什么都没有..
 ```
 <script>
-  document.querySelector("body > header > h1").innerText='W e l c o m e !';
-  document.querySelector("#content > footer > span").innerHTML='!wo!ow!';
+  $(function() {
+     document.querySelector("body > header > h1").innerText='W e l c o m e !';
+     document.querySelector("#content > footer > span").innerHTML='!wo!ow!';
+   });
 </script>
 <style>
 #content > p > img{
