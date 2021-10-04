@@ -45,10 +45,10 @@
   window.onload=function() {
      document.querySelector("head > title").innerText='AIFREE|HOMEPAGE';
      document.querySelector("body > header > h1").innerText='W e l c o m e !';
-     var UpYun = '<a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral" target="_blank" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/ooiv7oo/ling@gh-pages/assets/images/UpYun.png" style="width:50px">'
-     var CloudFlare = '<a href="https://dash.cloudflare.com" target="_blank" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/ooiv7oo/ling@gh-pages/assets/images/CloudFlare.png" style="width:50px">'
-     var GitHub = '<a href="https://github.com" target="_blank" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/ooiv7oo/ling@gh-pages/assets/images/GitHub.png" style="width:50px">'
-     document.querySelector("#content > footer > span").innerHTML="<p>" + GitHub + "</p>";
+     var UpYun = '<a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral" target="_blank" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/ooiv7oo/ling@gh-pages/assets/images/UpYun.png" style="width:25px">'
+     var CloudFlare = '<a href="https://dash.cloudflare.com" target="_blank" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/ooiv7oo/ling@gh-pages/assets/images/CloudFlare.png" style="width:25px">'
+     var GitHub = '<a href="https://github.com" target="_blank" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/ooiv7oo/ling@gh-pages/assets/images/GitHub.png" style="width:25px">'
+     document.querySelector("#content > footer > span").innerHTML="<p>" + CloudFlare + "┊" + GitHub + "</p>";
    };
 </script>
 <style>
