@@ -1,5 +1,6 @@
 <script>
   document.querySelector("body > header > h1").innerText='W e l c o m e !';
+  </script><script>
   document.querySelector("#content > footer > span").innerText = './';
 </script>
 <style>
@@ -9,7 +10,7 @@
    margin-left: auto;
    margin-right: auto;
    border: 2px solid #000;
-   border-radius：50%;
+   border-radius：50% !important;
    height: auto;
   }
 </style>
