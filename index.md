@@ -3,7 +3,7 @@
  <center>I'm 艾菲.</center>
  ---
  <div style="text-align:center">
- <p id="hitokoto" ><a id="hitokoto_text">:D 获取中...</a></p>
+ <div id="hitokoto" ><p id="hitokoto_text">追求极致的精彩</p></div>
  <script>
   var xhr = new XMLHttpRequest();
   xhr.open('get', 'https://v1.hitokoto.cn');
