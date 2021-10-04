@@ -1,6 +1,6 @@
 <script>
   document.querySelector("body > header > h1").innerText='W e l c o m e !';
-  document.querySelector("#content > footer > span").innerText='hhh';
+  document.querySelector("#content > footer > span").innerText = './';
 </script>
 <style>
 #content > p > img{
@@ -10,6 +10,7 @@
    margin-right: auto;
    border: 2px solid #000;
    border-radius：50%;
+   height: auto;
   }
 </style>
 ### Intreduce
