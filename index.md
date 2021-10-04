@@ -17,7 +17,6 @@
   xhr.send();
 </script>
  
- <table>
  <tr>
   <th>QQ: </th>
   <td>1764712330</td>
@@ -25,7 +24,6 @@
   <th>WeChat: </th>
   <td>ooiv7oo</td>
  </tr>
- </table>
  </div>
 ### Plan
 - 有个温柔善良de老婆
