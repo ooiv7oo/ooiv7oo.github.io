@@ -2,15 +2,16 @@
  ![QQ头像](https://q1.qlogo.cn/g?b=qq&nk=1764712330&s=640)
  <center>I'm 艾菲.</center>
  ---
- - QQ: '1764712330'
- - wechat: 'ooiv7oo'
- - [链接1](https://aifree.cc):  https://aifree.cc
- - [链接2](https://aifree.cc):  https://aifree.cc
-
+ <tr>
+ <td>`QQ: '1764712330'`</td>
+ <td>`wechat: 'ooiv7oo'`</td>
+ <td>`[链接1](https://aifree.cc):  https://aifree.cc`</td>
+ <td>`[链接2](https://aifree.cc):  https://aifree.cc`</td>
+ </tr>
 ### Plan
-- [ ] ONE
-- [ ] TWO
-- [ ] THR
+- [ ]     ONE
+- [ ]     TWO
+- [ ]     THR
 
 ---
 ### Work
