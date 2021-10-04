@@ -16,7 +16,7 @@
   }
   xhr.send();
 </script>
- <table>
+ 
  <tr>
   <th>QQ: </th>
   <th>&</th>
@@ -27,7 +27,7 @@
   <td></td>
   <td>ooiv7oo</td>
  </tr>
- </table>
+ 
  </div>
 ### Plan
 - 有个温柔善良de老婆
