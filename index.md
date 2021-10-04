@@ -1,5 +1,5 @@
 <script>
-  document.querySelector("#content > footer > span").innerText = 'xxx';
+  document.querySelector("#content > footer > span").innerText='xxx';
 </script>
 <style>
 #content > p > img{
@@ -8,6 +8,7 @@
    margin-left: auto;
    margin-right: auto;
    border: 2px solid #000;
+   border-radius: 50%;
    height: auto;
   }
 </style>
