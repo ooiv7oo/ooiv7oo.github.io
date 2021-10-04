@@ -20,7 +20,7 @@
 这里暂时什么都没有..
 ```
 <script>
-  windows.load=function() {
+  windows.onload=function() {
      document.querySelector("body > header > h1").innerText='W e l c o m e !';
      document.querySelector("#content > footer > span").innerHTML='!wo!ow!';
    };
