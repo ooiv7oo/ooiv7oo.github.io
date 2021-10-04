@@ -1,5 +1,5 @@
 <script>
-  document.querySelector("body > header > h1").innerText='W e l c o m e !';
+  
   document.querySelector("#content > footer > span").innerHtml='!wo!ow!';
 </script>
 <style>
