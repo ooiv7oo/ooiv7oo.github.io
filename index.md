@@ -2,6 +2,7 @@
  ![QQ头像](https://q1.qlogo.cn/g?b=qq&nk=1764712330&s=640)
  <center>I'm 艾菲.</center>
  ---
+ <p id="hitokoto"><a href="#" id="hitokoto_text">:D 获取中...</a></p>
  <script>
   var xhr = new XMLHttpRequest();
   xhr.open('get', 'https://v1.hitokoto.cn');
