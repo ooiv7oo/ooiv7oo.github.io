@@ -21,8 +21,7 @@
  <tr>
   <th>QQ: </th>
   <td>1764712330</td>
- </tr>
- <tr>
+ 
   <th>WeChat: </th>
   <td>ooiv7oo</td>
  </tr>
