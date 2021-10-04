@@ -1,5 +1,5 @@
 <script>
-  document.querySelector("#content > footer > span").innerText='xxx';
+  document.querySelector("body > header > h1").innerText='W e l c o m e !';
 </script>
 <style>
 #content > p > img{
@@ -7,7 +7,7 @@
    width: 150px;
    margin-left: auto;
    margin-right: auto;
-   border: 2px solid #000;
+   border: 1px solid white;
    border-radius: 50%;
    height: auto;
   }
