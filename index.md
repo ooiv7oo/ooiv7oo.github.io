@@ -1,5 +1,6 @@
 <script>
   document.querySelector("body > header > h1").innerText='W e l c o m e !';
+  document.querySelector("#content > footer > span").innerHtml='!wo!ow!';
 </script>
 <style>
 #content > p > img{
@@ -12,10 +13,10 @@
    height: auto;
   }
 </style>
-### Intreduce
-
+#Intreduce
  ![QQ头像](https://q1.qlogo.cn/g?b=qq&nk=1764712330&s=640)
  <center>I'm 艾菲.</center>
+ ---
  - QQ: '1764712330'
  - wechat: 'ooiv7oo'
  - [链接1](https://aifree.cc):  https://aifree.cc
