@@ -17,15 +17,13 @@
   xhr.send();
 </script>
  
- <table style="border:none">
+ <table>
  <tr>
   <th>QQ: </th>
-  <th></th>
-  <th>WeChat: </th>
+  <td>1764712330</td>
  </tr>
  <tr>
-  <td>1764712330</td>
-  <td></td>
+  <th>WeChat: </th>
   <td>ooiv7oo</td>
  </tr>
  </table>
