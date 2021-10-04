@@ -1,19 +1,3 @@
-<script>
-  document.querySelector("body > header > h1").innerText='W e l c o m e !';
-  document.querySelector("#content > footer > span").innerHTML='!wo!ow!';
-</script>
-<style>
-#content > p > img{
-   display: block;
-   width: 150px;
-   margin-left: auto;
-   margin-right: auto;
-   border: 1px solid white;
-   border-radius: 50%;
-   height: auto;
-  }
-</style>
-
 # Intreduce
  ![QQ头像](https://q1.qlogo.cn/g?b=qq&nk=1764712330&s=640)
  <center>I'm 艾菲.</center>
@@ -35,3 +19,18 @@
 ```123
 这里暂时什么都没有..
 ```
+<script>
+  document.querySelector("body > header > h1").innerText='W e l c o m e !';
+  document.querySelector("#content > footer > span").innerHTML='!wo!ow!';
+</script>
+<style>
+#content > p > img{
+   display: block;
+   width: 150px;
+   margin-left: auto;
+   margin-right: auto;
+   border: 1px solid white;
+   border-radius: 50%;
+   height: auto;
+  }
+</style>
