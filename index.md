@@ -1,5 +1,4 @@
 <script>
-  
   document.querySelector("#content > footer > span").innerHtml='!wo!ow!';
 </script>
 <style>
