@@ -3,10 +3,10 @@
  <center>I'm 艾菲.</center>
  ---
  <tr>
- <td>`QQ: '1764712330'`</td>
- <td>`wechat: 'ooiv7oo'`</td>
- <td>`[链接1](https://aifree.cc):  https://aifree.cc`</td>
- <td>`[链接2](https://aifree.cc):  https://aifree.cc`</td>
+ <td>QQ: </td>
+ <td>```1764712330```</td>
+ <td>WeChat: </td>
+ <td>```ooiv7oo```</td>
  </tr>
 ### Plan
 - [ ]     ONE
