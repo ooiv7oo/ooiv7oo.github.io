@@ -2,11 +2,25 @@
  ![QQ头像](https://q1.qlogo.cn/g?b=qq&nk=1764712330&s=640)
  <center>I'm 艾菲.</center>
  ---
+ <script>
+  var xhr = new XMLHttpRequest();
+  xhr.open('get', 'https://v1.hitokoto.cn');
+  xhr.onreadystatechange = function () {
+    if (xhr.readyState === 4) {
+      var data = JSON.parse(xhr.responseText);
+      var hitokoto = document.getElementById('hitokoto_text');
+      hitokoto.href = 'https://hitokoto.cn/?uuid=' + data.uuid
+      hitokoto.innerText = data.hitokoto;
+    }
+  }
+  xhr.send();
+</script>
+ 
  <tr>
  <td>QQ: </td>
- <td>```1764712330```</td>
+ <td>1764712330</td>
  <td>WeChat: </td>
- <td>```ooiv7oo```</td>
+ <td>ooiv7oo</td>
  </tr>
 ### Plan
 - [ ]     ONE
