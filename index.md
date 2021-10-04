@@ -18,11 +18,11 @@
 </script>
  
  <tr>
- <td>QQ: <br />
- 1764712330</td>
- <td>&</td>
- <td>WeChat: <br />
- ooiv7oo</td>
+ <th>QQ: </th>
+ <td>1764712330</td>
+ <th>&</th>
+ <th>WeChat: </th>
+ <td>ooiv7oo</td>
  </tr>
  </div>
 ### Plan
