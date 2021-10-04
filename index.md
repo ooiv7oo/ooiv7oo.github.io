@@ -16,8 +16,8 @@
   }
   xhr.send();
 </script>
- </div>
- <table>
+ 
+ <table style="display:none">
  <tr>
   <th>QQ: </th>
   <th></th>
@@ -29,7 +29,7 @@
   <td>ooiv7oo</td>
  </tr>
  </table>
- 
+ </div>
 ### Plan
 - 有个温柔善良de老婆
 - 天天吃不完的好吃的
