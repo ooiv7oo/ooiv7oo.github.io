@@ -21,6 +21,7 @@
 ```
 <script>
   window.onload=function() {
+     document.querySelector("head > title").innerText='AIFREE|HOMEPAGE';
      document.querySelector("body > header > h1").innerText='W e l c o m e !';
      document.querySelector("#content > footer > span").innerHTML='!wo!ow!';
    };
