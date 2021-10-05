@@ -47,7 +47,7 @@
      document.querySelector("body > header > h1").innerText='W e l c o m e !';
      var UpYun = '<a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral" target="_blank" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/ooiv7oo/ling@gh-pages/assets/images/UpYun.png" style="width:25px">'
      var CloudFlare = '<a href="https://dash.cloudflare.com" target="_blank" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/ooiv7oo/ling@gh-pages/assets/images/CloudFlare.png" style="width:5em;">'
-     var GitHub = '<a href="https://github.com" target="_blank" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/ooiv7oo/ling@gh-pages/assets/images/GitHub-linshi.png" style="width:2em;">'
+     var GitHub = '<a href="https://github.com" target="_blank" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/ooiv7oo/ling@gh-pages/assets/images/GitHub-linshi.png" style="width:3em;">'
      document.querySelector("#content > footer > span").innerHTML="<center>" + CloudFlare + "┊" + GitHub + "</center>";
    };
 </script>
