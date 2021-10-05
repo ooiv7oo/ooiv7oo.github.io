@@ -46,15 +46,15 @@
      document.querySelector("head > title").innerText='AIFREE|HOMEPAGE';
      document.querySelector("body > header > h1").innerText='W e l c o m e !';
      var UpYun = '<a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral" target="_blank" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/ooiv7oo/ling@gh-pages/assets/images/UpYun.png" style="width:25px">'
-     var CloudFlare = '<a href="https://dash.cloudflare.com" target="_blank" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/ooiv7oo/ling@gh-pages/assets/images/CloudFlare.png" style="width:5em;">'
-     var GitHub = '<a href="https://github.com" target="_blank" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/ooiv7oo/ling@gh-pages/assets/images/GitHub.png" style="width:3em;">'
+     var CloudFlare = '<a href="https://dash.cloudflare.com" target="_blank" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/ooiv7oo/ling@gh-pages/assets/images/CloudFlare.png" style="width:5.58rem;">'
+     var GitHub = '<a href="https://github.com" target="_blank" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/ooiv7oo/ling@gh-pages/assets/images/GitHub.png" style="width:3rem;">'
      document.querySelector("#content > footer > span").innerHTML="<center>" + CloudFlare + "┊" + GitHub + "</center>";
    };
 </script>
 <style>
  
   #intreduce,#plan,#work {
-    text-shadow: 1px 0 1px #eff0f1, -10px 0px 1px #000000a8, -20px 0px 1px #00000082, -30px 0px 1px #00000052;
+    text-shadow: 1px 0 1px #eff0f1, -10px 0px 1px rgb(0 0 0 / 66%), -20px 0px 1px rgb(0 0 0 / 51%), -30px 0px 1px rgb(0 0 0 / 32%);
     border: 5px solid #156190;
     border-radius: 50%;
     width: 20px;
