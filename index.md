@@ -53,7 +53,7 @@
 </script>
 <style>
  
-  #intreduce, #plan,#work {
+  #intreduce,#plan,#work {
     text-shadow: 1px 0 1px #eff0f1, -10px 0px 1px #000000a8, -20px 0px 1px #00000082, -30px 0px 1px #00000052;
     border: 5px solid #156190;
     border-radius: 50%;
