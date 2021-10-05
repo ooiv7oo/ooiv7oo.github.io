@@ -52,7 +52,18 @@
    };
 </script>
 <style>
-#content > p > img{
+ 
+  #intreduce, #plan,#work {
+    text-shadow: 1px 0 1px #eff0f1, -10px 0px 1px #000000a8, -20px 0px 1px #00000082, -30px 0px 1px #00000052;
+    border: 5px solid #156190;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    color: #1d1a25;
+    background-color: #166091;
+} 
+ 
+ #content > p > img{
    display: block;
    width: 150px;
    margin-left: auto;
