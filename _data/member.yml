@@ -1,0 +1,19 @@
+#设置 多个组引用
+# <ul>
+# {% for member in site.data.members %} # date member 需对应文件名，也就是文件的基名决定可变名称
+#   <li>
+#     <a href="https://github.com/{{ member.github }}">
+#       {{ member.name }}
+#     </a>
+#   </li>
+# {% endfor %}
+# </ul>
+
+- name: Eric Mill
+  github: konklone
+
+- name: Parker Moore
+  github: parkr
+
+- name: Liu Fengyun
+  github: liufengyun

@@ -1,3 +1,17 @@
+
+# 存储配置数据。其中许多选项可以从可执行的命令行中指定，
+# 但在这里更易于指定它们，因此您不必记住它们。
+
+
 url: "https://aifree.cc" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "AIFREE" # the name of your site, e.g. ACME Corp.
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: ""
+    values:
+      layout: ""
+      author: ""
