@@ -9,16 +9,6 @@ body {
 }
 
  
-#intreduce,#plan,#work {
-  text-shadow: 1px 0 1px #eff0f1, -10px 0px 1px rgb(0 0 0 / 66%), -20px 0px 1px rgb(0 0 0 / 51%), -30px 0px 1px rgb(0 0 0 / 32%);
-  border: 5px solid #156190;
-  border-radius: 50%;
-  width: 20px;
-  height: 20px;
-  color: #1d1a25;
-  background-color: #166091;
-} 
- 
 #content > p > img{
   display: block;
   width: 150px;
@@ -27,4 +17,8 @@ body {
   border: 1px solid white;
   border-radius: 50%;
   height: auto;
+}
+
+footer {
+  text-align: center;
 }
