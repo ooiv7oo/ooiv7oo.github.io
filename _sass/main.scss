@@ -8,6 +8,12 @@ body {
   font-family: $bodyFont;
 }
 
+main {
+  font-size: 1.5rem;
+  text-align:center;
+  background: linear-gradient(141deg,#9fb8ad 0%,#1fc8db 51%,#2cb5e8 75%);
+}
+
  
 body > p > img{
   display: block;

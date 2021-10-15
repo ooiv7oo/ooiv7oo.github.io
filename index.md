@@ -3,11 +3,12 @@ layout: default
 title: "HOMEPAGE"
 ---
 
-### Intreduce
+<div class="menu">oo</div>
+
  ![QQ头像](https://q1.qlogo.cn/g?b=qq&nk=1764712330&s=640)
  <center>I'm 艾菲.</center>
 
- <div style="text-align:center">
+ <div class="main">
  <div id="hitokoto" ><p id="hitokoto_text">追求极致的精彩</p></div>
  <script>
   var xhr = new XMLHttpRequest();
