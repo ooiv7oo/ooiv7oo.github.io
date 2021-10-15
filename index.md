@@ -2,7 +2,8 @@
 layout: default
 title: "HOMEPAGE"
 ---
- <div>
+ <div class="menu">oo</div>
+<div class="header">
  <img src="https://q1.qlogo.cn/g?b=qq&amp;nk=1764712330&amp;s=640" alt="qq">
 <center>I'm 艾菲.</center>
 <div class="contact"></div>
