@@ -10,7 +10,7 @@ title: "HOMEPAGE"
 <div class="contact"></div>
 </div>
 <div class="main">
-<div id="hitokoto" ><p id="hitokoto_text">一直在追求极致的精彩</p></div>
+<div id="hitokoto"><p id="hitokoto_text">一直在追求极致的精彩</p></div>
  <script>
   var xhr = new XMLHttpRequest();
   xhr.open('get', 'https://v1.hitokoto.cn');
