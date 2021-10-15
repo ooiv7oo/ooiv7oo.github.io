@@ -8,13 +8,13 @@ body {
   font-family: $bodyFont;
 }
 body > div.menu {
-  text-shadow: #000000;
+  text-shadow: 2px #000000;
 }
 
 body > div.main {
   display: block;
   height: 10rem;
-  width: 25rem;
+  width: 20rem;
   margin: auto;
   color: black;
   font-size: 1.5rem;
@@ -26,7 +26,7 @@ body > div.main {
 }
 body > div.header > img {
   display: block;
-  width: 150px;
+  width: 7rem;
   margin-left: auto;
   margin-right: auto;
   border: 1px solid white;
