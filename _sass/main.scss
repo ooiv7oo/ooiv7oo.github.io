@@ -7,7 +7,9 @@ body {
   color: $bodyColor;
   font-family: $bodyFont;
 }
-
+menu{
+  text-shadow: #000000;
+}
 body > div.main {
   display: block;
   height: 200px;
