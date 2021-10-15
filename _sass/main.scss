@@ -24,7 +24,6 @@ body > div.main {
   opacity: 0.8;
   background: linear-gradient(135deg, rgba(233, 233, 233, 0.9) 0%, rgba(225, 225, 225, 0.95) 51%, rgba(233, 233, 233, 0.9) 75%);
 }
-
 body > div.header > img {
   display: block;
   width: 150px;
@@ -35,7 +34,7 @@ body > div.header > img {
   height: auto;
 }
 
-footer {
+body > footer {
   text-align: center;
   position: fixed;
   height: 60px;
