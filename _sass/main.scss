@@ -7,7 +7,7 @@ body {
   color: $bodyColor;
   font-family: $bodyFont;
 }
-menu {
+body > div.menu {
   text-shadow: #000000;
 }
 
