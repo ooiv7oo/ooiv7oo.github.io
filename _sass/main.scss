@@ -7,3 +7,12 @@ body {
   color: $bodyColor;
   font-family: $bodyFont;
 }
+ body > p > img {
+  display: block;
+  width: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid white;
+  border-radius: 50%;
+  height: auto;
+}
