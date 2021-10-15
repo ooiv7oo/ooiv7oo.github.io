@@ -8,11 +8,12 @@ body {
   font-family: $bodyFont;
 }
 body > div.menu {
-  text-shadow: 1px 1px 2px black;
-  background: black;
-  width: 1rem;
-  height: 1rem;
-  border-radius: 50%
+    box-shadow: 2rem 1px 1px #f8f930, 4rem 1px 1px #a5e130;
+    color: white;
+    background: #e32e2e;
+    width: 1.5rem;
+    height: 1.5rem;
+    border-radius: 50%;
 }
 
 body > div.main {
