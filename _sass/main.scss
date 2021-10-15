@@ -10,9 +10,16 @@ body {
 
 body > div.main {
   display: block;
+  height: 200px;
+  width: 500px;
+  margin: auto;
+  color: black;
   font-size: 1.5rem;
+  font-weight: 100;
+  border-radius: 20px;
   text-align: center;
-  background: linear-gradient(141deg,#9fb8ad 0%,#1fc8db 51%,#2cb5e8 75%);
+  opacity: 0.8;
+  background: linear-gradient(135deg, rgb(233 233 233 / 90%) 20%, rgb(225 225 225 / 95%) 70%, rgb(233 233 233 / 95%) 100%);
 }
 
  
