@@ -21,4 +21,12 @@ body > p > img{
 
 footer {
   text-align: center;
+  position: fixed;
+  height: 60px;
+  width: 100%;
+  display: block;
+  bottom: 0;
+  left: 0;
+  line-height: 70px;
+  border-top: #dedfe1 1px solid;
 }
