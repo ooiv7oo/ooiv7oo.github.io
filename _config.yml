@@ -13,8 +13,5 @@ defaults:
       path: ""
       type: ""
     values:
-      layout: ""
+      layout: "default"
       author: "AIFREE"
-     
-      
-
