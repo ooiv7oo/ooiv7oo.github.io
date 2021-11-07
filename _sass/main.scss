@@ -3,9 +3,12 @@ $bodyColor: #000000;
 $bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 
 body {
+  margin: 0;
+  padding: 0;
   background: $backgroundColor;
   color: $bodyColor;
   font-family: $bodyFont;
+  text-align: center;
 }
 body > div.menu {
     box-shadow: 1.5rem 1px 0px #f8f930, 3rem 1px 0px #a5e130;
@@ -19,27 +22,31 @@ body > div.menu {
 
 body > div.header {
   background:  url('/assets/images/header-bg.jpg') center/cover no-repeat ;
-  display: block;
   height: 9rem;
   width: 18rem;
   position: relative;
 }
 
 body > div.header > div.tx {
-  width: 7rem;
-  height: auto;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
+  height: 120px;
   position: absolute;
   bottom: -50%;
 }
 body > div.header > div.tx > img {
+  width: 6rem;
+  height: auto;
   border: 1px solid white;
   border-radius: 50%;
 }
 
+body > div.header > div.contact {
+  position: absolute;
+  bottom: -60%;
+}
+
 body > div.header > div.contact > p {
-  text-align: center;
+  text-shadow: 1px 1px 0px rgba(225, 225, 225, 0.95);
 }
 
 body > div.main {
@@ -47,7 +54,7 @@ body > div.main {
   height: 10rem;
   width: 18rem;
   margin: auto;
-  position: absolute;
+  position: relative;
   top: 50%;
   padding: 1rem;
   color: black;
