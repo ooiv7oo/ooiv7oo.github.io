@@ -31,9 +31,12 @@ body > div.main {
   background: linear-gradient(135deg, rgba(233, 233, 233, 0.9) 0%, rgba(225, 225, 225, 0.95) 51%, rgba(233, 233, 233, 0.9) 75%);
 }
 body > div.header {
-  background: url('./assets/images/header-bg.jpg') no-repeat fixed center;
+  height: auto;
+  background:  url('/assets/images/') no-repeat fixed center;
   display: block;
-  position: absolute;
+  height: 20%;
+  width: auto;
+  position: relative;
 }
 body > div.header > img {
   display: block;
@@ -42,7 +45,7 @@ body > div.header > img {
   margin-right: auto;
   border: 1px solid white;
   border-radius: 50%;
-  position: relative;
+  position: absolute;
   bottom: -50%;
   height: auto;
 }
