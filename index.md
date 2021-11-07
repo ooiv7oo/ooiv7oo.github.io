@@ -5,7 +5,7 @@ title: "HOMEPAGE"
 
 <div class="header">
     <div class="tx">
-      <img src="https://q1.qlogo.cn/g?b=qq&amp;nk=1764712330&amp;s=640" alt="qq">
+      <img src="https://q1.qlogo.cn/g?b=qq&nk=1764712330&s=640" alt="qq头像">
     </div>
     <div class="contact">
       <p>I'm 艾菲.</p>
