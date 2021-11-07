@@ -18,7 +18,7 @@ body > div.menu {
 
 
 body > div.header {
-  background:  url('/assets/images/header-bg.jpg') fixed center/cover no-repeat ;
+  background:  url('/assets/images/header-bg.jpg') center/cover no-repeat ;
   display: block;
   height: 9rem;
   width: 18rem;
@@ -28,13 +28,13 @@ body > div.header {
 body > div.header > img {
   display: block;
   width: 7rem;
+  height: auto;
   margin-left: auto;
   margin-right: auto;
   border: 1px solid white;
   border-radius: 50%;
   position: absolute;
   bottom: -50%;
-  height: auto;
 }
 
 body > div.main {
