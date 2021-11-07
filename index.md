@@ -2,7 +2,7 @@
 layout: default
 title: "HOMEPAGE"
 ---
-<div class="menu"></div>
+
 <div class="header">
     <div class="tx">
       <img src="https://q1.qlogo.cn/g?b=qq&amp;nk=1764712330&amp;s=640" alt="qq">

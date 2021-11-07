@@ -10,15 +10,6 @@ body {
   font-family: $bodyFont;
   text-align: center;
 }
-body > div.menu {
-    box-shadow: 1.5rem 1px 0px #f8f930, 3rem 1px 0px #a5e130;
-    color: white;
-    background: #e32e2e;
-    width: 1rem;
-    height: 1rem;
-    border-radius: 50%;
-}
-
 
 body > div.header {
   background:  url('/assets/images/header-bg.jpg') center/cover no-repeat ;
