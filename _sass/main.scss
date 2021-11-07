@@ -23,7 +23,7 @@ body > div.menu {
 body > div.header {
   background:  url('/assets/images/header-bg.jpg') center/cover no-repeat ;
   height: 9rem;
-  width: 18rem;
+  width: 100%;
   position: relative;
 }
 
@@ -43,8 +43,11 @@ body > div.header > div.tx > img {
 }
 
 body > div.header > div.contact {
+  width: 100px;
   position: absolute;
-  bottom: -60%;
+  left: 50%;
+  margin-left: -50px;
+  bottom: -70%;
 }
 
 body > div.header > div.contact > p {
@@ -54,7 +57,7 @@ body > div.header > div.contact > p {
 body > div.main {
   display: block;
   height: 10rem;
-  width: 18rem;
+  width: 100%;
   margin: auto;
   position: relative;
   top: 50%;
