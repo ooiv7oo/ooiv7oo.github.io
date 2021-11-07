@@ -30,6 +30,11 @@ body > div.main {
   opacity: 0.8;
   background: linear-gradient(135deg, rgba(233, 233, 233, 0.9) 0%, rgba(225, 225, 225, 0.95) 51%, rgba(233, 233, 233, 0.9) 75%);
 }
+body > div.header {
+  background: fixed url('./assets/images/header-bg.png');
+  display: block;
+  position: absolute;
+}
 body > div.header > img {
   display: block;
   width: 7rem;
@@ -37,6 +42,8 @@ body > div.header > img {
   margin-right: auto;
   border: 1px solid white;
   border-radius: 50%;
+  position: relative;
+  bottom: -50%;
   height: auto;
 }
 
