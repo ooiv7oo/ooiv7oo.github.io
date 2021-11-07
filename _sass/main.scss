@@ -25,16 +25,17 @@ body > div.header {
   position: relative;
 }
 
-body > div.header > div.tx > img {
-  display: block;
+body > div.header > div.tx {
   width: 7rem;
   height: auto;
   margin-left: auto;
   margin-right: auto;
-  border: 1px solid white;
-  border-radius: 50%;
   position: absolute;
   bottom: -50%;
+}
+body > div.header > div.tx > img {
+  border: 1px solid white;
+  border-radius: 50%;
 }
 
 body > div.header > div.contact > p {
