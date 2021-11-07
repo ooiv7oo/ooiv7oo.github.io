@@ -25,7 +25,7 @@ body > div.header {
   position: relative;
 }
 
-body > div.header > img {
+body > div.header > div.tx > img {
   display: block;
   width: 7rem;
   height: auto;
@@ -35,6 +35,10 @@ body > div.header > img {
   border-radius: 50%;
   position: absolute;
   bottom: -50%;
+}
+
+body > div.header > div.contact > p {
+  text-align: center;
 }
 
 body > div.main {

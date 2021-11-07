@@ -4,13 +4,15 @@ title: "HOMEPAGE"
 ---
 <div class="menu"></div>
 <div class="header">
-<img src="https://q1.qlogo.cn/g?b=qq&amp;nk=1764712330&amp;s=640" alt="qq">
-<div class="contact">
-<center>I'm 艾菲.</center>
-</div>
+    <div class="tx">
+      <img src="https://q1.qlogo.cn/g?b=qq&amp;nk=1764712330&amp;s=640" alt="qq">
+    </div>
+    <div class="contact">
+      <p>I'm 艾菲.</p>
+    </div>
 </div>
 <div class="main">
-<div id="hitokoto"><p id="hitokoto_text">一直在追求极致的精彩</p></div>
+    <div id="hitokoto"><p id="hitokoto_text">一直在追求极致的精彩</p></div>
 <script>
 var xhr = new XMLHttpRequest();
 xhr.open('get', 'https://v1.hitokoto.cn');
