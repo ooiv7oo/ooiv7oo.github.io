@@ -13,7 +13,7 @@ body {
   color: $bodyColor;
   font-family: $bodyFont;
   text-align: center;
-  min-width: auto;
+  min-width: min-content;
   overflow: hidden;
   -Webkit-tap-highlight-color: transparent;
 }
