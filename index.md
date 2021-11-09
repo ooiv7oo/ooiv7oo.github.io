@@ -32,6 +32,9 @@ title: "HOMEPAGE"
           }
           xhr.send();
       </script>
+      <div></div>
+      <div></div>
+      <div></div>
     </div>
 </div>
  

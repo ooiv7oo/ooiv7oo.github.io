@@ -51,11 +51,20 @@ body > div.header > div.contact > p {
   text-shadow: 1px 1px 0px rgba(225, 225, 225, 0.95);
 }
 
-body > div.content > div.main > div {
+
+.content {
+    position: relative;
+}
+
+.introduce {
+  margin-top: 8rem;
+}
+
+body > div.content > div.main div {
   display: block;
   height: auto;
   Max-width: 200px;
-  margin: 30vh auto;
+  margin: 30px auto;
   padding: 1rem;
   color: black;
   font-size: 1.2rem;
