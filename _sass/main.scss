@@ -59,7 +59,13 @@ body > div.header > div.contact > p {
 
 .introduce {
   margin-top: 8rem;
-  
+  display: inline-flex;
+  justify-content: space-around;
+}
+
+body > div.content > div.introduce > a {
+  margin-inline: 8vw;
+  text-decoration: none;
 }
 
 body > div.content > div.main div {
