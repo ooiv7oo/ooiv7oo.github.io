@@ -37,5 +37,3 @@ title: "HOMEPAGE"
       <div></div>
     </div>
 </div>
- 
-{% include footer.html %}

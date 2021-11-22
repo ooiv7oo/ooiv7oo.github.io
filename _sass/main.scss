@@ -55,6 +55,7 @@ body > div.header > div.contact > p {
 .content {
     position: relative;
     height: auto;
+    min-height: 800px;
 }
 
 .introduce {
@@ -70,7 +71,6 @@ body > div.content > div.introduce > a {
 }
 
 body > div.content > div.main div {
-  display: block;
   height: auto;
   Max-width: 200px;
   margin: 30px auto;
@@ -79,13 +79,11 @@ body > div.content > div.main div {
   font-size: 1.2rem;
   font-weight: 100;
   border-radius: 20px;
-  text-align: center;
   opacity: 0.8;
   background: linear-gradient(135deg, rgba(233, 233, 233, 0.9) 0%, rgba(225, 225, 225, 0.95) 51%, rgba(233, 233, 233, 0.9) 75%);
 }
 
 body > footer {
-  text-align: center;
   position: fixed;
   height: 60px;
   width: 100%;
