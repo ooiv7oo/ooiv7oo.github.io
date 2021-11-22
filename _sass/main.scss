@@ -55,7 +55,7 @@ body > div.header > div.contact > p {
 .content {
     position: relative;
     height: auto;
-    min-height: initial;
+    min-height: min-content;
 }
 
 .introduce {
