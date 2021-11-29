@@ -31,6 +31,7 @@ body > div.header > div.tx {
   margin-left: -60px;
   position: absolute;
   bottom: -50%;
+  z-index: 1;
 }
 body > div.header > div.tx > img {
   width: inherit;
@@ -52,11 +53,6 @@ body > div.header > div.contact > p {
 }
 
 
-.content {
-    position: relative;
-    height: auto;
-    min-height: min-content;
-}
 
 .introduce {
   margin-top: 8rem;
@@ -70,8 +66,10 @@ body > div.content > div.introduce > a {
   color: initial;
 }
 
-body > div.content > div.main div {
+body > div.content > div.main {
   height: auto;
+}
+body > div.content > div.main div {
   Max-width: 200px;
   margin: 30px auto;
   padding: 1rem;
