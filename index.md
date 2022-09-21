@@ -5,7 +5,7 @@ title: "HOMEPAGE"
 
 <div class="header">
     <div class="tx">
-      <img src="https://cdn.jsdelivr.net/gh/ooiv7oo/ooiv7oo.github.io@main/assets/images/Avatar.png" alt="qq头像">
+      <img src="./assets/images/Avatar.png" alt="qq头像">
     </div>
     <div class="contact">
       <p>I'm 艾菲.</p>
