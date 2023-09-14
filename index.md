@@ -7,7 +7,7 @@ title: "HOMEPAGE"
     <div class="tx">
       <img src="/assets/images/Avatar.png" alt="qq头像">
     </div>
-    <div class="contact">
+    <div class="name">
       <p>I'm 艾菲.</p>
     </div>
 </div>
